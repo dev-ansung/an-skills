@@ -46,6 +46,14 @@ npx skills add dev-ansung/an-skills --skill skill-creator
   deploy/verify loop) plus a case study of three real bugs hit while
   porting an external binary protocol into a Worker.
 
+### frontend
+
+- [`daisyui-quickstart`](skills/frontend/daisyui-quickstart/SKILL.md) -
+  original, distilled from shipping a daisyUI + Tailwind CDN page in
+  production (no build step). Covers the exact working CDN tags, the
+  correct fieldset/label markup, the one-line `theme-controller` dark
+  mode toggle, and when to graduate to a real build setup instead.
+
 ## Layout
 
 Skills are organized as `skills/<category>/<name>/SKILL.md`, which the
