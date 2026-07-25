@@ -31,6 +31,21 @@ npx skills add dev-ansung/an-skills --skill skill-creator
   its `LICENSE.txt`). Helps create new skills and iteratively improve existing
   ones, including running evals and benchmarking triggering accuracy.
 
+### cloudflare
+
+- [`cloudflare`](skills/cloudflare/cloudflare/SKILL.md) - vendored from
+  [cloudflare/skills](https://github.com/cloudflare/skills) (Apache 2.0, see
+  its `LICENSE.txt`). Comprehensive Cloudflare platform skill covering
+  Workers, Pages, storage (KV, D1, R2), AI (Workers AI, Vectorize, Agents
+  SDK), feature flags, networking (Tunnel, Spectrum), security (WAF, DDoS),
+  and infrastructure-as-code (Terraform, Pulumi).
+- [`cloudflare-quickstart`](skills/cloudflare/cloudflare-quickstart/SKILL.md) -
+  original, distilled from building and shipping a real production Worker
+  (`tts-flared`) end to end. A fast-start playbook (scaffolding,
+  vitest-pool-workers test setup, custom domain + static assets routing,
+  deploy/verify loop) plus a case study of three real bugs hit while
+  porting an external binary protocol into a Worker.
+
 ## Layout
 
 Skills are organized as `skills/<category>/<name>/SKILL.md`, which the
