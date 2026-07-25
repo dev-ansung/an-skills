@@ -48,6 +48,10 @@ npx skills add dev-ansung/an-skills --skill skill-creator
 
 ### frontend
 
+- [`daisyui`](skills/frontend/daisyui/SKILL.md) - vendored from
+  [saadeghi/daisyui](https://github.com/saadeghi/daisyui/tree/master/skills/daisyui)
+  (MIT, see its `LICENSE.txt`). Official daisyUI component library skill -
+  full component reference, config, colors, and usage patterns.
 - [`daisyui-quickstart`](skills/frontend/daisyui-quickstart/SKILL.md) -
   original, distilled from shipping a daisyUI + Tailwind CDN page in
   production (no build step). Covers the exact working CDN tags, the
