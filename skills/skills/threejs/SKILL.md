@@ -1,17 +1,6 @@
 ---
 name: threejs
 description: Comprehensive Three.js skill covering 3D scene setup, cameras, renderers, geometries, materials, textures, lighting, animation, interaction, asset loading (GLTF/HDR), custom GLSL shaders, and post-processing visual effects.
-references:
-  - fundamentals
-  - geometry
-  - materials
-  - textures
-  - lighting
-  - animation
-  - interaction
-  - loaders
-  - shaders
-  - postprocessing
 ---
 
 # Three.js Skill
