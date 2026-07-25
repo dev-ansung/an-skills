@@ -2,16 +2,24 @@
 
 A collection of Claude Code skills, organized by category.
 
-## Install a skill
+## Install
+
+Install all skills in this repo:
 
 ```
-npx skills add <your-github-username>/an-skills
+npx skills add dev-ansung/an-skills
 ```
 
-Or install a single skill directly by path, if the CLI you're using supports it:
+List available skills without installing anything:
 
 ```
-npx skills add <your-github-username>/an-skills/skills/skills/skill-creator
+npx skills add dev-ansung/an-skills --list
+```
+
+Install just one skill by name:
+
+```
+npx skills add dev-ansung/an-skills --skill skill-creator
 ```
 
 ## Skills
