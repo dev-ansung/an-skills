@@ -3,12 +3,12 @@
 Detailed technical reference for foundational distributed systems concepts, trade-offs, and design rules.
 
 Source References:
-- CAP Theorem: [`sources/core-concepts/CAP Theorem for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/core-concepts/CAP%20Theorem%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Caching: [`sources/core-concepts/Caching for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/core-concepts/Caching%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Sharding: [`sources/core-concepts/Sharding in System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/core-concepts/Sharding%20in%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Database Indexing: [`sources/core-concepts/Database Indexing for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/core-concepts/Database%20Indexing%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Consistent Hashing: [`sources/core-concepts/Consistent Hashing for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/core-concepts/Consistent%20Hashing%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Numbers to Know: [`sources/core-concepts/Numbers to Know for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/core-concepts/Numbers%20to%20Know%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
+- CAP Theorem: [`sources/core-concepts/cap-theorem.md`](sources/core-concepts/cap-theorem.md)
+- Caching: [`sources/core-concepts/caching.md`](sources/core-concepts/caching.md)
+- Sharding: [`sources/core-concepts/sharding.md`](sources/core-concepts/sharding.md)
+- Database Indexing: [`sources/core-concepts/database-indexing.md`](sources/core-concepts/database-indexing.md)
+- Consistent Hashing: [`sources/core-concepts/consistent-hashing.md`](sources/core-concepts/consistent-hashing.md)
+- Numbers to Know: [`sources/core-concepts/numbers-to-know.md`](sources/core-concepts/numbers-to-know.md)
 
 ---
 

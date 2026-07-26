@@ -3,15 +3,15 @@
 Selection guide, trade-off matrix, and architecture placement for core distributed systems infrastructure technologies.
 
 Source References:
-- PostgreSQL: [`sources/key-technologies/PostgreSQL Deep Dive for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/key-technologies/PostgreSQL%20Deep%20Dive%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Redis: [`sources/key-technologies/Redis Deep Dive for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/key-technologies/Redis%20Deep%20Dive%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Kafka: [`sources/key-technologies/Kafka Deep Dive for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/key-technologies/Kafka%20Deep%20Dive%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- DynamoDB: [`sources/key-technologies/DynamoDB Deep Dive for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/key-technologies/DynamoDB%20Deep%20Dive%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Cassandra: [`sources/key-technologies/Cassandra Deep Dive for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/key-technologies/Cassandra%20Deep%20Dive%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Elasticsearch: [`sources/key-technologies/Elasticsearch Deep Dive for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/key-technologies/Elasticsearch%20Deep%20Dive%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Flink: [`sources/key-technologies/Flink Deep Dive for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/key-technologies/Flink%20Deep%20Dive%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- ZooKeeper: [`sources/key-technologies/ZooKeeper Deep Dive for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/key-technologies/ZooKeeper%20Deep%20Dive%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- API Gateway: [`sources/key-technologies/API Gateway Deep Dive for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/key-technologies/API%20Gateway%20Deep%20Dive%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
+- PostgreSQL: [`sources/key-technologies/postgresql.md`](sources/key-technologies/postgresql.md)
+- Redis: [`sources/key-technologies/redis.md`](sources/key-technologies/redis.md)
+- Kafka: [`sources/key-technologies/kafka.md`](sources/key-technologies/kafka.md)
+- DynamoDB: [`sources/key-technologies/dynamodb.md`](sources/key-technologies/dynamodb.md)
+- Cassandra: [`sources/key-technologies/cassandra.md`](sources/key-technologies/cassandra.md)
+- Elasticsearch: [`sources/key-technologies/elasticsearch.md`](sources/key-technologies/elasticsearch.md)
+- Flink: [`sources/key-technologies/flink.md`](sources/key-technologies/flink.md)
+- ZooKeeper: [`sources/key-technologies/zookeeper.md`](sources/key-technologies/zookeeper.md)
+- API Gateway: [`sources/key-technologies/api-gateway.md`](sources/key-technologies/api-gateway.md)
 
 ---
 

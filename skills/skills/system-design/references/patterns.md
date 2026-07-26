@@ -3,14 +3,14 @@
 Detailed recipes, trade-offs, and implementation strategies for core system design patterns.
 
 Source References:
-- Realtime Updates: [`sources/patterns/Real-time Updates Pattern for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/patterns/Real-time%20Updates%20Pattern%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Long-Running Tasks: [`sources/patterns/Managing Long Running Tasks Pattern for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/patterns/Managing%20Long%20Running%20Tasks%20Pattern%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Contention: [`sources/patterns/Dealing with Contention Pattern for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/patterns/Dealing%20with%20Contention%20Pattern%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Scaling Reads: [`sources/patterns/How to scale reads in your system design interview  Hello Interview System Design in a Hurry.md`](sources/patterns/How%20to%20scale%20reads%20in%20your%20system%20design%20interview%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Scaling Writes: [`sources/patterns/How to scale writes in your system design interview  Hello Interview System Design in a Hurry.md`](sources/patterns/How%20to%20scale%20writes%20in%20your%20system%20design%20interview%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Large Blobs: [`sources/patterns/Handling Large Blobs Pattern for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/patterns/Handling%20Large%20Blobs%20Pattern%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Multi-Step Processes: [`sources/patterns/Multi-step Processes Pattern for System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/patterns/Multi-step%20Processes%20Pattern%20for%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
-- Proximity Search: [`sources/advanced-topics/Proximity Search in System Design Interviews  Hello Interview System Design in a Hurry.md`](sources/advanced-topics/Proximity%20Search%20in%20System%20Design%20Interviews%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
+- Realtime Updates: [`sources/patterns/realtime-updates.md`](sources/patterns/realtime-updates.md)
+- Long-Running Tasks: [`sources/patterns/managing-long-running-tasks.md`](sources/patterns/managing-long-running-tasks.md)
+- Contention: [`sources/patterns/dealing-with-contention.md`](sources/patterns/dealing-with-contention.md)
+- Scaling Reads: [`sources/patterns/scaling-reads.md`](sources/patterns/scaling-reads.md)
+- Scaling Writes: [`sources/patterns/scaling-writes.md`](sources/patterns/scaling-writes.md)
+- Large Blobs: [`sources/patterns/handling-large-blobs.md`](sources/patterns/handling-large-blobs.md)
+- Multi-Step Processes: [`sources/patterns/multi-step-processes.md`](sources/patterns/multi-step-processes.md)
+- Proximity Search: [`sources/advanced-topics/proximity-search.md`](sources/advanced-topics/proximity-search.md)
 
 ---
 

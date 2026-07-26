@@ -2,7 +2,7 @@
 
 A structured, battle-tested approach to delivering working, robust system architectures in interview and real-world design scenarios.
 
-Source Reference: [`references/sources/in-a-hurry/System Design Delivery Framework  Hello Interview System Design in a Hurry.md`](sources/in-a-hurry/System%20Design%20Delivery%20Framework%20%20Hello%20Interview%20System%20Design%20in%20a%20Hurry.md)
+Source Reference: [`references/sources/in-a-hurry/delivery-framework.md`](sources/in-a-hurry/delivery-framework.md)
 
 ---
 
