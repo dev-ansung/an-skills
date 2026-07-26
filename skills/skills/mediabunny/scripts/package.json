@@ -1,0 +1,10 @@
+{
+  "name": "mediabunny-scripts",
+  "version": "1.0.0",
+  "description": "CLI helper scripts for Mediabunny media operations",
+  "type": "module",
+  "dependencies": {
+    "mediabunny": "latest",
+    "@mediabunny/server": "latest"
+  }
+}
