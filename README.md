@@ -32,6 +32,7 @@ npx skills add dev-ansung/an-skills --skill system-design
 
 ## Skills
 
+- [`algorithm`](skills/skills/algorithm/SKILL.md) - Master Data Structures and Algorithms skill covering coding interview problem-solving frameworks, core patterns (Two Pointers, Binary Search, Sliding Window, Prefix Sum, Monotonic Stack, Intervals, Greedy), data structures (Heaps, Tries, Matrices, Linked Lists), tree & graph algorithms (BFS, DFS, Topological Sort, Shortest Path/Dijkstra), and Dynamic Programming & Backtracking (Memoization, Tabulation, State Space Search).
 - [`cloudflare`](skills/skills/cloudflare/SKILL.md) - Comprehensive Cloudflare platform skill covering Workers, Pages, storage (KV, D1, R2), AI (Workers AI, Vectorize, Agents SDK), feature flags, networking (Tunnel, Spectrum), security (WAF, DDoS), and infrastructure-as-code (Terraform, Pulumi). Includes deep per-product reference docs under `references/`. (Source: [cloudflare/skills](https://github.com/cloudflare/skills))
 - [`daisyui`](skills/skills/daisyui/SKILL.md) - Official daisyUI component library skill for Tailwind CSS - full component reference, config, colors, and usage patterns. (Source: [saadeghi/daisyui](https://github.com/saadeghi/daisyui/tree/master/skills/daisyui))
 - [`fastapi`](skills/skills/fastapi/SKILL.md) - Official FastAPI skill for APIs, Pydantic models, dependencies, streaming responses (SSE), and serving frontend apps. (Source: [fastapi/fastapi](https://github.com/fastapi/fastapi))
