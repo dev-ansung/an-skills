@@ -55,6 +55,18 @@ Refer to specialized reference guides for detailed code patterns, complexity tra
 
 ---
 
+## Executable Algorithm Scripts & Doctests
+
+Fully tested Python implementations with `doctest` validation examples are located in `scripts/`:
+
+- [`scripts/arrays_pointers.py`](scripts/arrays_pointers.py) - Two Pointers, Binary Search, Sliding Window, Prefix Sum, Intervals, Greedy.
+- [`scripts/data_structures.py`](scripts/data_structures.py) - Reverse Linked List, Valid Parentheses, Monotonic Stack, Kth Largest Heap, Trie, Rotate Matrix.
+- [`scripts/trees_graphs.py`](scripts/trees_graphs.py) - BFS Level Order, DFS Connected Components, Topological Sort (Kahn's), Dijkstra Shortest Path.
+- [`scripts/dynamic_programming.py`](scripts/dynamic_programming.py) - Climbing Stairs, House Robber, Coin Change, LCS, Subsets, Permutations.
+- [`scripts/run_doctests.py`](scripts/run_doctests.py) - Master runner to execute all doctests (`uv run python scripts/run_doctests.py`).
+
+---
+
 ## Algorithm Choice & Constraints Matrix
 
 Deduce the optimal algorithm pattern from input size $N$:
